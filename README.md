@@ -6,15 +6,15 @@
 
 <h2> Hi, I'm Khaled Guesmi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://assets.website-files.com/5e2f01f286f417acc730dafc/604f4ee65807d858aa555eb4_de%CC%81veloppeur%20web-p-1080.jpeg" width="550" height="350">
-<p><em> Student in <a href="http://www.enetcom.rnu.tn">National School of Electronics and Telecommunications of Sfax.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" ></br>
+<p><em> STUDIED in <a href="ESPRIT">IPEIB then ESPRIT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" ></br>
 </em></p>
 
 <p align='right'>
 	
 <h4> ༼ つ ◕_◕ ༽つ Where to find me <i class="fa fa-user"></i></h4>
 
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2)  [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-ouled-bouzid-402007166/)](https://www.linkedin.com/in/ali-ouled-bouzid-402007166/)  ![GitHub followers](https://img.shields.io/github/followers/ali?style=social)  ) <br>
-<a href="https://discord.gg/RxZ5kEe"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="mailto:khaledguesmi666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khaledguesmi666@gmail.com-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>  [![Facebook : arfaoui-mehdi](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ali.bouzid.37)](https://www.facebook.com/ali.bouzid.37)
+![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArfaoui_Mehdi2)  [![Linkedin: arfaoui-mehdi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-ouled-bouzid-402007166/)](https://www.linkedin.com/in/khaledGUESMI/)  ![GitHub followers](https://img.shields.io/github/followers/ali?style=social)  ) <br>
+<a href="https://discord.gg/RxZ5kEe"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="mailto:khaledguesmi666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khaledguesmi666@gmail.com-purple?style=flat-square&logo=Yahoo!&logoColor=white"></a>  [![Facebook : arfaoui-mehdi](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/khaledGuesmi)](https://www.facebook.com/khaledGuesmi)
 </p>
 <p align='right'>
 	
