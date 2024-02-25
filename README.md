@@ -18,17 +18,7 @@
 </p>
 <p align='right'>
 	
-<h4>💬 Sometimes I like to write things here...</h4>
 
-[![my blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]() 
-</p>
-# <p align='right'>
-<!--	
-# <h4> 🤵 MyPortfolio & Websits</h4>
---!>
-# [![MyPortfolio](https://img.shields.io/badge/MyPortfolio-FF2222?style=for-the-badge&logo=ifood&logoColor=white)](https://ouledbouzidali.netlify.app/ )  
-# </p> 
-	
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
